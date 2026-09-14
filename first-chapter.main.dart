@@ -81,7 +81,7 @@ class ProfileCard extends StatelessWidget {
                 // NAME
                 // -------------------------
                 const Text(
-                  'Crépin Fadjo',
+                  'Imran Salih',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 38,
