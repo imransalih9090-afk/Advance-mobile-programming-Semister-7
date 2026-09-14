@@ -1,0 +1,11 @@
+dependencies:
+  flutter:
+    sdk: flutter
+
+  audioplayers: ^6.5.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sounds/
